@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+
+/* TOP CONTAINER*/
+
+h1 {
+  margin-top: 0;
+  font-size: 562.5%;
+  margin-bottom: 10px;
+  color: #66BFBF;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #FD3A69;
+  font-size: 200%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #FD3A69;
+  font-family: "Montserrat", sans-serif;
+}
+
+.top {
+  padding-top: 110px;
+  position: relative;
+  background-color: #E8F9FD;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 270px;
+  top: 60px;
+}
+.cloud2 {
+  position: absolute;
+  left: 270px;
+  bottom: 320px;
+}
+
+/**********/
+
+
+.middle {
+  padding: 0 auto;
+}
+
+/* PROFILE */
+
+.profile {
+  padding: 130px 90px 90px 90px;
+}
+
+.pfp {
+  height: 200px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+  font-size: 120%;
+}
+
+/* SKILLS */
+
+.skills {
+  padding: 80px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.art {
+  height: 180px;
+  float: left;
+  margin-right: 30px;
+}
+
+.piano {
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.sport {
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.programming {
+  border-radius: 50%;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+/* CONTACT ME */
+
+.contact-me {
+  padding: 40px 40px 90px 40px;
+}
+
+.contact-message {
+  margin: 20px auto 20px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  background: #FD3A69;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F25CB1;
+  text-decoration: none;
+}
+
+/* BOTTOM CONTAINER */
+
+.bottom {
+  background-color: #E4F9F5;
+  padding: 70px 0 50px;
+}
+
+.footer-link {
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+/*******/
